@@ -8,5 +8,8 @@ Hello 👋, I'm Daniel Gorbachev
 
 ![image](https://github.com/user-attachments/assets/365464a4-5bcc-4f6f-8086-18fc12e70b24)
 
+![image](https://github.com/user-attachments/assets/8ee23d00-6209-414b-92bf-ace2f2d64f47)
+
+
 
 
