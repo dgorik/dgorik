@@ -6,4 +6,4 @@ Hello 👋, I'm Daniel Gorbachev
 - 📫 How to reach me: dgorbachev06@gmail.com or through my website!
 - ⚡ Fun fact: Did you know if there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second?
 
-https://simpleicons.org/?q=react
+[https://simpleicons.org/?q=react](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
