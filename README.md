@@ -15,7 +15,7 @@ Hello 👋, I'm Daniel Gorbachev
 <a href="https://www.example.com/link3">
     <img src="https://github.com/user-attachments/assets/aaa05b6e-7e50-414f-999a-a3385f39eea5" alt="description of image 3">
 </a>
-<a href="https://www.example.com/link4">
+<a href="[https://www.example.com/link4](https://nodejs.org/en)">
     <img src="https://github.com/user-attachments/assets/2c33619c-faed-4738-bc59-85909e837902" alt="description of image 4">
 </a>
 <a href="https://www.example.com/link5">
