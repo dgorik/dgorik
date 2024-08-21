@@ -21,7 +21,7 @@ Hello 👋, I'm Daniel Gorbachev
 <a href="https://en.wikipedia.org/wiki/SQL">
     <img src="https://github.com/user-attachments/assets/cc5b6e32-9181-43c1-9adb-6afd8bf88f11" alt="description of image 5">
 </a>
-<a href="https://ejs.co/6">
+<a href="https://ejs.co">
     <img src="https://github.com/user-attachments/assets/4d55559c-f5ce-4e3f-9065-08fd033c446e" alt="description of image 6">
 </a>
 
