@@ -25,7 +25,7 @@ Hello 👋, I'm Daniel Gorbachev
     <img src="https://github.com/user-attachments/assets/4d55559c-f5ce-4e3f-9065-08fd033c446e" alt="description of image 6">
 </a>
 <a href="https://ejs.co">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="description of image 7">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="description of image 7">
 </a>
 
 
