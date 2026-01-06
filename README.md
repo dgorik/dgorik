@@ -1,7 +1,6 @@
 Hello 👋, I'm Daniel Gorbachev
 
-- 🔭 I’m currently working on a full-stack app to automate financial reporting for a company.
-- 👯 I’m looking to collaborate on full-stack web development projects that involve data analytics.
+- 🔭 I’m currently contributing to Tremor UI open source library and maintaining Bazookanator, a full stack business intelligence tool built by me for the Bazooka Companies.
 - 💬 Ask me about anything!
 - 📫 How to reach me: dgorbachev06@gmail.com or through my website!
 - ⚡ Fun fact: Did you know if there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second?
